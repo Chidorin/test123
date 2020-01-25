@@ -7,10 +7,10 @@
             "url": "https://twitter.com/"
         },
         {
-            "type": "instagram",
-            "title": "Instagram",
-            "icon": "fa-instagram",
-            "url": "https://www.instagram.com/"
+            "type": "discord",
+            "title": "Discord",
+            "icon": "fa-discord",
+            "url": "https://www.discord.com/"
         },
         {
             "type": "github",
